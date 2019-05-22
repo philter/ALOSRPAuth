@@ -16,6 +16,7 @@
     "osx": "10.7"
   },
   "source_files": "*.{h,m,c}",
+  "static_framework": true,
   "requires_arc": true,
   "dependencies": {
     "OpenSSL-Universal": [
